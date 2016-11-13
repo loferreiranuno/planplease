@@ -1,0 +1,29 @@
+{
+  "name": "beatag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/loferreiranuno/beatag.git"
+  },
+  "author": "Nuno Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loferreiranuno/beatag/issues"
+  },
+  "homepage": "https://github.com/loferreiranuno/beatag#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "csurf": "^1.9.0",
+    "express-stormpath": "^3.1.6",
+    "forms": "^1.2.0",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-beta6",
+    "xtend": "^4.0.1"
+  }
+}
